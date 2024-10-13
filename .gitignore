@@ -1,21 +1,21 @@
-exp6\my-react-project\node_modules
+exp6/my-react-project/node_modules
 
-exp6\my-react-project\.pnp
+exp6/my-react-project/.pnp
 .pnp.js
 
-exp6\my-react-project\coverage
-exp6\my-react-project\build
+exp6/my-react-project/coverage
+exp6/my-react-project/build
 
 # misc
-exp6\my-react-project\.DS_Store
-exp6\my-react-project\.env.local
-exp6\my-react-project\.env.development.local
-exp6\my-react-project\.env.test.local
-exp6\my-react-project\.env.production.local
+exp6/my-react-project/.DS_Store
+exp6/my-react-project/.env.local
+exp6/my-react-project/.env.development.local
+exp6/my-react-project/.env.test.local
+exp6/my-react-project/.env.production.local
 
-exp6\my-react-project\npm-debug.log*
-exp6\my-react-project\yarn-debug.log*
-exp6\my-react-project\yarn-error.log*
+exp6/my-react-project/npm-debug.log*
+exp6/my-react-project/yarn-debug.log*
+exp6/my-react-project/yarn-error.log*
 
 GoogleCloudSDKInstaller.exe
 exp4/
