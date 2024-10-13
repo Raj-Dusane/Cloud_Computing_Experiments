@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+exp6/myReactProject/npm-debug.log*
+exp6/myReactProject/yarn-debug.log*
+exp6/myReactProject/yarn-error.log*
+exp6/myReactProject/pnpm-debug.log*
+exp6/myReactProject/lerna-debug.log*
+
+exp6/myReactProject/node_modules
+exp6/myReactProject/dist
+exp6/myReactProject/dist-ssr
+*.local
+
+# Editor directories and files
+exp6/myReactProject/.vscode/*
+!.vscode/extensions.json
+exp6/myReactProject/.idea
+exp6/myReactProject/.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+GoogleCloudSDKInstaller.exe
+exp4/
