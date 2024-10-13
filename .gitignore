@@ -1,27 +1,21 @@
-# Logs
-logs
-*.log
-exp6/myReactProject/npm-debug.log*
-exp6/myReactProject/yarn-debug.log*
-exp6/myReactProject/yarn-error.log*
-exp6/myReactProject/pnpm-debug.log*
-exp6/myReactProject/lerna-debug.log*
+exp6\my-react-project\node_modules
 
-exp6/myReactProject/node_modules
-exp6/myReactProject/dist
-exp6/myReactProject/dist-ssr
-*.local
+exp6\my-react-project\.pnp
+.pnp.js
 
-# Editor directories and files
-exp6/myReactProject/.vscode/*
-!.vscode/extensions.json
-exp6/myReactProject/.idea
-exp6/myReactProject/.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+exp6\my-react-project\coverage
+exp6\my-react-project\build
+
+# misc
+exp6\my-react-project\.DS_Store
+exp6\my-react-project\.env.local
+exp6\my-react-project\.env.development.local
+exp6\my-react-project\.env.test.local
+exp6\my-react-project\.env.production.local
+
+exp6\my-react-project\npm-debug.log*
+exp6\my-react-project\yarn-debug.log*
+exp6\my-react-project\yarn-error.log*
 
 GoogleCloudSDKInstaller.exe
 exp4/
