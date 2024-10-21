@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h3>Experiment no: 6</h3>
-        <h4>Akansha | 42466</h4>
+        <h4> Hitesh | 42164</h4>
 
         <img src={logo} className="App-logo" alt="logo" />
 
